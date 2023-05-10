@@ -1,4 +1,4 @@
-source/Flow_meter_with_tcp_client/config.h
+source/Flow_meter_with_udp_client/config.h
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,c,c++
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,c,c++
